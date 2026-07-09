@@ -1,0 +1,8 @@
+﻿chrome.exe : 173637 bytes written to file 
+C:\Users\ADMIN\.gemini\antigravity\brain\a9b57b62-9895-4677-ad21-f41f9992ad93\mockup-banner.png
+At line:1 char:1
++ & "C:\Program Files\Google\Chrome\Application\chrome.exe" --headless= ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (173637 bytes wr...ckup-banner.png:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
